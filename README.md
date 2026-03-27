@@ -24,18 +24,3 @@ The project focuses on clean code practices, modular architecture, and scalabili
 ## Technology
 - Frontend: React, TypeScript, React-router, Figma.
 - Libraries: DnDkit (Drag and Drop), Masonry layout library, Toastify.js
-
-## Screenshots - Everything is subject to changeable including this UI
-
-Main page showing a masonry grid with each board
-
-![App Screenshot](https://1drv.ms/i/c/B6E6EF6597B2B011/IQCzU6heGAaRT4foFAJ4InGQAc6VTSuWiD21rcsJrAgJ6y8?e=0UT1uZ)
-
-Inside each board  you can add/remove tasks and columns, and reorder with drag and drop.
-
-![App Screenshot](https://1drv.ms/i/c/B6E6EF6597B2B011/IQAFm3t6wrdvTLTeymie4n3IAYXDyIGQZ9pRFhpVJqtYBCM?e=5WrpdD)
-
-After each operatation, a toast notification displays in the bottom right hand corner of the screen telling the user an operation has been carried out.
-
-![App Screenshot](https://1drv.ms/i/c/B6E6EF6597B2B011/IQBr4-4l2Es8TZl0kLda6NV4AZUJ-wTvNyFrz8WW1yu7Lvs?e=zO0rFH)
-
