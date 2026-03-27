@@ -24,3 +24,9 @@ The project focuses on clean code practices, modular architecture, and scalabili
 ## Technology
 - Frontend: React, TypeScript, React-router, Figma.
 - Libraries: DnDkit (Drag and Drop), Masonry layout library, Toastify.js
+
+## Install the Dependencies
+- npm install
+
+## Run Server
+- npm run dev =>Application is Running on http://localhost:5173/
