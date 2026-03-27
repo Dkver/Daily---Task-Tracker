@@ -8,21 +8,6 @@ I implemented features such as dynamic task creation, updating, and deletion, al
 The project focuses on clean code practices, modular architecture, and scalability, making it easy to extend with additional features in the future.
 
 
-## Screenshots - Everything is subject to changeable including this UI
-
-Main page showing a masonry grid with each board
-
-![App Screenshot](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2FB6E6EF6597B2B011%21s5ea853b306184f9187e8140278227190%3Fithint%3Dphoto%26e%3D0UT1uZ%26migratedtospo%3Dtrue&cid=B6E6EF6597B2B011&id=B6E6EF6597B2B011%21s5ea853b306184f9187e8140278227190&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9CNkU2RUY2NTk3QjJCMDExL0lRQ3pVNmhlR0FhUlQ0Zm9GQUo0SW5HUUFjNlZUU3VXaUQyMXJjc0pyQWdKNnk4P2U9MFVUMXVa&v=photos)
-
-Inside each board  you can add/remove tasks and columns, and reorder with drag and drop.
-
-![App Screenshot](https://1drv.ms/i/c/B6E6EF6597B2B011/IQAFm3t6wrdvTLTeymie4n3IAYXDyIGQZ9pRFhpVJqtYBCM?e=5WrpdD)
-
-After each operatation, a toast notification displays in the bottom right hand corner of the screen telling the user an operation has been carried out.
-
-![App Screenshot](https://1drv.ms/i/c/B6E6EF6597B2B011/IQBr4-4l2Es8TZl0kLda6NV4AZUJ-wTvNyFrz8WW1yu7Lvs?e=zO0rFH)
-
-
 ## Features
 
 - Ability to export each a board's data, possibly via JSON.
@@ -39,3 +24,18 @@ After each operatation, a toast notification displays in the bottom right hand c
 ## Technology
 - Frontend: React, TypeScript, React-router, Figma.
 - Libraries: DnDkit (Drag and Drop), Masonry layout library, Toastify.js
+
+## Screenshots - Everything is subject to changeable including this UI
+
+Main page showing a masonry grid with each board
+
+![App Screenshot](https://1drv.ms/i/c/B6E6EF6597B2B011/IQCzU6heGAaRT4foFAJ4InGQAc6VTSuWiD21rcsJrAgJ6y8?e=0UT1uZ)
+
+Inside each board  you can add/remove tasks and columns, and reorder with drag and drop.
+
+![App Screenshot](https://1drv.ms/i/c/B6E6EF6597B2B011/IQAFm3t6wrdvTLTeymie4n3IAYXDyIGQZ9pRFhpVJqtYBCM?e=5WrpdD)
+
+After each operatation, a toast notification displays in the bottom right hand corner of the screen telling the user an operation has been carried out.
+
+![App Screenshot](https://1drv.ms/i/c/B6E6EF6597B2B011/IQBr4-4l2Es8TZl0kLda6NV4AZUJ-wTvNyFrz8WW1yu7Lvs?e=zO0rFH)
+
