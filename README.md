@@ -12,7 +12,7 @@ The project focuses on clean code practices, modular architecture, and scalabili
 
 Main page showing a masonry grid with each board
 
-![App Screenshot](https://1drv.ms/i/c/B6E6EF6597B2B011/IQCzU6heGAaRT4foFAJ4InGQAc6VTSuWiD21rcsJrAgJ6y8?e=0UT1uZ)
+![App Screenshot](https://onedrive.live.com/?qt=allmyphotos&photosData=%2Fshare%2FB6E6EF6597B2B011%21s5ea853b306184f9187e8140278227190%3Fithint%3Dphoto%26e%3D0UT1uZ%26migratedtospo%3Dtrue&cid=B6E6EF6597B2B011&id=B6E6EF6597B2B011%21s5ea853b306184f9187e8140278227190&redeem=aHR0cHM6Ly8xZHJ2Lm1zL2kvYy9CNkU2RUY2NTk3QjJCMDExL0lRQ3pVNmhlR0FhUlQ0Zm9GQUo0SW5HUUFjNlZUU3VXaUQyMXJjc0pyQWdKNnk4P2U9MFVUMXVa&v=photos)
 
 Inside each board  you can add/remove tasks and columns, and reorder with drag and drop.
 
